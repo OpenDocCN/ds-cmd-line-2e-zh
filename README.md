@@ -50,7 +50,7 @@ ds-cmd-line-2e-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
-## 赞助我们
+## 赞助我
 
 本项目由[飞龙](https://github.com/wizardforcel)赞助，扫下面的二维码打赏他来表示感谢：
 
